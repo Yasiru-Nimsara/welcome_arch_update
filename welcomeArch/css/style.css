@@ -51,7 +51,7 @@ html, body {
   top: -100px;
   left: 0;
   background-color: transparent;
-  z-index: 310;
+  z-index: 210;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -560,7 +560,7 @@ img:focus{
   width: 100%;
   height: 100%;
   background-color: red;
-  z-index: 501;
+  z-index: 201;
   display: none;
 }
 
@@ -645,3 +645,4 @@ img:focus{
   }
 
 }
+
