@@ -541,7 +541,7 @@ img:focus{
   height: 100px;
   border-radius: 20px;
   /* background-color: white; */
-  z-index: 201;
+  z-index: 101;
   filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.5));
 }
 
@@ -645,4 +645,5 @@ img:focus{
   }
 
 }
+
 
