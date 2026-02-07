@@ -12,7 +12,7 @@ html, body {
   position: absolute;
   width: 70px;
   height: 70px;
-  z-index: 501;
+  z-index: 201;
   border-radius: 50%;
   top: 500px;
   left: 5px;
@@ -90,7 +90,7 @@ html, body {
   width: 100%;
   height: 100%;
   background-color: rgba(255, 255, 255, 0.5);
-  z-index: 500;
+  z-index: 210;
   justify-content: center;
   align-items: center;
   display: none; /* none */
@@ -643,4 +643,5 @@ img:focus{
   #thorana{
     border: 2px solid #FF0000;
   }
+
 }
